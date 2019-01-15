@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "NAME: BURGOS, DENNISON GIO MANGUBA" << endl;
+    cout << "SY TERM: 2018-2019 2ns Asean Trimester"<< endl;
+    cout << "STDENT ID: 18004531700" "                                                                NATIONALITY: Filipino "<< endl;
+    cout << "COURSE/PLAN: BS in COmputer Engieering/ Computer Engineering" "                                     BIRTHDAY  1998-11-7" << endl ;
+    cout << "ADDRESS: BLK 3 LOT 18 NEPTUNE ST. DELNOR SUBD. TALON 5 LASPINAS CITY" << endl;
+    cout << "PAYMENT: OR Number 110001037814; 5,000.00" << endl;
+    cout << " --------------------------------------------------------------------------------------" << endl;
+    cout <<"SUBJECT " << endl;
+
+    return 0;
+}
